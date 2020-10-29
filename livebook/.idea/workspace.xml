@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="36f2bf7d-0f6e-41f3-a13a-70e2aa0b5861" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Grocery-App/f_groceries/f_groceries.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Grocery-App/f_groceries/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Grocery-App/f_groceries/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Grocery-App/f_groceries/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Grocery-App/f_groceries/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gridsome-strapi/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gridsome-strapi/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gridsome-strapi/e-vents-api/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gridsome-strapi/e-vents-api/.env.example" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gridsome-strapi/e-vents-api/.eslintignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gridsome-strapi/e-vents-api/.eslintrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gridsome-strapi/e-vents-api/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gridsome-strapi/e-vents-api/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gridsome-strapi/e-vents-api/api/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gridsome-strapi/e-vents-api/api/category/config/routes.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gridsome-strapi/e-vents-api/api/category/controllers/category.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gridsome-strapi/e-vents-api/api/category/models/category.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gridsome-strapi/e-vents-api/api/category/models/category.settings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gridsome-strapi/e-vents-api/api/category/services/category.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gridsome-strapi/e-vents-api/api/event/config/routes.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gridsome-strapi/e-vents-api/api/event/controllers/event.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gridsome-strapi/e-vents-api/api/event/models/event.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gridsome-strapi/e-vents-api/api/event/models/event.settings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gridsome-strapi/e-vents-api/api/event/services/event.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gridsome-strapi/e-vents-api/config/database.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gridsome-strapi/e-vents-api/config/functions/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gridsome-strapi/e-vents-api/config/functions/cron.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gridsome-strapi/e-vents-api/config/functions/responses/404.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gridsome-strapi/e-vents-api/config/server.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gridsome-strapi/e-vents-api/extensions/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gridsome-strapi/e-vents-api/extensions/users-permissions/config/jwt.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gridsome-strapi/e-vents-api/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gridsome-strapi/e-vents-api/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gridsome-strapi/e-vents-api/public/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gridsome-strapi/e-vents-api/public/uploads/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gridsome-strapi/e-vents-api/yarn.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gridsome-strapi/e-vents-front/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gridsome-strapi/e-vents-front/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gridsome-strapi/e-vents-front/gridsome.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gridsome-strapi/e-vents-front/gridsome.server.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gridsome-strapi/e-vents-front/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gridsome-strapi/e-vents-front/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gridsome-strapi/e-vents-front/src/components/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gridsome-strapi/e-vents-front/src/favicon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gridsome-strapi/e-vents-front/src/layouts/Default.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gridsome-strapi/e-vents-front/src/layouts/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gridsome-strapi/e-vents-front/src/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gridsome-strapi/e-vents-front/src/pages/Index.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gridsome-strapi/e-vents-front/src/pages/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gridsome-strapi/e-vents-front/src/templates/Event.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gridsome-strapi/e-vents-front/src/templates/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gridsome-strapi/e-vents-front/static/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gridsome-strapi/e-vents-front/yarn.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/screens/login/localwidgets/login.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/screens/login/localwidgets/signup/localwidgets/signup.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/utils/ourTheme.dart" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Dart File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="UPDATE_TYPE" value="MERGE" />
+  </component>
+  <component name="ProjectId" id="1jMom2P4G6UAFKSJRvX6MEiWG9R" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="dart.analysis.tool.window.force.activate" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="36f2bf7d-0f6e-41f3-a13a-70e2aa0b5861" name="Default Changelist" comment="" />
+      <created>1603623476449</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603623476449</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="275" y="42" key="#Notifications" timestamp="1603673824031">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="275" y="42" key="#Notifications/0.0.1366.768@0.0.1366.768" timestamp="1603673824031" />
+    <state x="184" y="26" key="SettingsEditor" timestamp="1603735345956">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="184" y="26" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1603735345956" />
+    <state x="363" y="208" key="com.intellij.ide.util.TipDialog" timestamp="1603752264036">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="363" y="208" key="com.intellij.ide.util.TipDialog/0.0.1366.768@0.0.1366.768" timestamp="1603752264036" />
+    <state x="490" y="296" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1603673420975">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="490" y="296" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.768@0.0.1366.768" timestamp="1603673420975" />
+  </component>
+</project>
