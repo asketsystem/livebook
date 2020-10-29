@@ -1,0 +1,4 @@
+#Wed Oct 28 23:57:26 GMT 2020
+base.0=C\:\\Users\\Franck Asket\\Documents\\GitHub\\livebook\\livebook\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
