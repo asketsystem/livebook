@@ -17,7 +17,11 @@ class OurLoginForm extends StatelessWidget {
                 fontWeight: FontWeight.bold,
               ),
             ),
-          )
+          ),
+          TextFormField(
+            decoration: InputDecoration(
+                prefixIcon: Icon(Icons.alternate_email), hintText: "Email"),
+          ),
         ],
       ),
     );
