@@ -6,7 +6,19 @@ class OurLoginForm extends StatelessWidget {
   Widget build(BuildContext context) {
     return OurContainer(
       child: Column(
-        children: <Widget>[],
+        children: <Widget>[
+          Padding(
+            padding: EdgeInsets.symmetric(vertical: 20.0, horizontal: 8.0),
+            child: Text(
+              "Log In",
+              style: TextStyle(
+                color: Theme.of(context).secondaryHeaderColor,
+                fontSize: 25.0,
+                fontWeight: FontWeight.bold,
+              ),
+            ),
+          )
+        ],
       ),
     );
   }
