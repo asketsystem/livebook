@@ -1,15 +1,14 @@
 import 'package:flutter/material.dart';
 
 class OurTheme {
-  Color _lightDark = Color.fromARGB(0, 7, 7, 7);
-  Color _lightGrey = Color.fromARGB(255, 164, 164, 164);
-  Color _darkGrey = Color.fromARGB(255, 119, 124, 135);
+  Color _lightDark = Color.fromARGB(255, 50, 12, 32);
+  Color _lightRed = Color.fromARGB(255, 252, 67, 118);
+  Color _darkRed = Color.fromARGB(225, 88, 2, 25);
 
   ThemeData buildTheme() {
     return ThemeData(
         canvasColor: _lightDark,
-        primaryColor: _lightDark,
-        accentColor: _lightGrey,
-        secondaryHeaderColor: _darkGrey);
+        primaryColor: _lightRed,
+        secondaryHeaderColor: _darkRed);
   }
 }
