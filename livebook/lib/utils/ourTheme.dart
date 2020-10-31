@@ -9,6 +9,22 @@ class OurTheme {
     return ThemeData(
         canvasColor: _lightDark,
         primaryColor: _lightRed,
-        secondaryHeaderColor: _darkRed);
+        secondaryHeaderColor: _darkRed,
+        hintColor: _lightRed,
+        inputDecorationTheme: InputDecorationTheme(
+          border: OutlineInputBorder(
+              borderRadius: BorderRadius.circular(20.0),
+              borderSide: BorderSide(color: _lightRed)),
+          focusedBorder: OutlineInputBorder(
+              borderRadius: BorderRadius.circular(20.0),
+              borderSide: BorderSide(color: _lightRed)),
+        ),
+        buttonTheme: ButtonThemeData(
+            buttonColor: _darkRed,
+            padding: EdgeInsets.symmetric(horizontal: 20.0),
+            minWidth: 200,
+            height: 40.0,
+            shape: RoundedRectangleBorder(
+                borderRadius: BorderRadius.circular(20.0))));
   }
 }

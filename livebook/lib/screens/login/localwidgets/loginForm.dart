@@ -22,6 +22,38 @@ class OurLoginForm extends StatelessWidget {
             decoration: InputDecoration(
                 prefixIcon: Icon(Icons.alternate_email), hintText: "Email"),
           ),
+          SizedBox(
+            height: 20.0,
+          ),
+          TextFormField(
+            decoration: InputDecoration(
+                prefixIcon: Icon(Icons.lock_outline), hintText: "Password"),
+          ),
+          SizedBox(
+            height: 20.0,
+          ),
+          RaisedButton(
+            child: Padding(
+              padding: EdgeInsets.symmetric(horizontal: 100),
+              child: Text(
+                "Log In",
+                style: TextStyle(
+                  color: Colors.white,
+                  fontWeight: FontWeight.bold,
+                  fontSize: 20.0,
+                ),
+              ),
+            ),
+            onPressed: () {},
+          ),
+          FlatButton(
+            child: Text("Don't have an account? Sign up here"),
+            materialTapTargetSize: MaterialTapTargetSize.shrinkWrap,
+            onPressed: () {
+              Navigator.of(context).push(
+                  MaterialPageRoute(builder: (context) => OurLoginForm()));
+            },
+          ),
         ],
       ),
     );
